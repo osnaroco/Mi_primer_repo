@@ -1,2 +1,8 @@
 CREANDO NUEVO ARCHIVO
+<<<<<<< HEAD
 SEGUNDA MODIFICACIÓN 
+=======
+Modificado por Oswaldo Rojano xd
+>>>>>>> 474ba2d963edf2e421a96cf511eef99a69f68023
+
+Modificado por DANIEL
